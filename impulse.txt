@@ -1,0 +1,2 @@
+ph202209B2LpytA
+from linkedInLearning course 'python-l-automatisation-des-taches'
