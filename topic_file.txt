@@ -1,0 +1,2 @@
+Automation with Python
+newcontent added with append mode

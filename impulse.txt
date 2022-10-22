@@ -1,2 +1,14 @@
 ph202209B2LpytA
+Automation task
+intro to python and automation
 from linkedInLearning course 'python-l-automatisation-des-taches'
+
+Advantages of automation are already known through the industrial methods course. These advantages are accurate in many field from data analyse to operational tasks.
+
+Three point concerning the task to automise : 1what is the task frequence 2realisation costs 3error probability on the task
+-> invoice management
+-> excel manipulation
+-> order and storage management
+
+tehnical language chosen: Python in anaconda environnement
+
